@@ -1,0 +1,2 @@
+A potential application for this would be a card or board game where you summon characters or monsters. 
+This adds to excitement and immersion, as most card and aboard games have static art and leave the rest up to imagination. 
